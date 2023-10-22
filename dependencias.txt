@@ -1,0 +1,3 @@
+npm install telegraf
+npm install @nlpjs/nlp
+npm install @nlpjs/core @nlpjs/lang-es
